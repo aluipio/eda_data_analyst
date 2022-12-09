@@ -14,4 +14,4 @@ Grupo 02:
 
 ![EDA](https://raw.githubusercontent.com/aluipio/eda_ada_tpii_football/main/imagem.png)
 
-[REDIRECIONADOR - NOVO LINK](https://github.com/aluipio/eda_ada_tpii_football)
+[REDIRECIONADOR -> NOVO REPOSITÓRIO](https://github.com/aluipio/eda_ada_tpii_football)
